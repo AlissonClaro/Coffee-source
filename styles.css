@@ -63,11 +63,9 @@ section {
     color: var(--white);
 }
 
-.navbar img {
+.content img {
     width: 30px;
-    position: absolute;
-    left: 60rem;
-    top: 3.9rem;
+    align-items: center;
 }
 
 .navbar a:hover {
